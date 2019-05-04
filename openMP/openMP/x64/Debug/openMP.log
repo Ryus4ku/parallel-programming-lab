@@ -1,0 +1,3 @@
+﻿  pch.cpp
+  openMP.cpp
+c:\users\nikita\ideaprojects\github\parallel-programming-labs\parallel-programming-lab\openmp\openmp\openmp\openmp.cpp(19): error C3861: max_min: идентификатор не найден
