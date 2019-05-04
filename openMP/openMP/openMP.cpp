@@ -4,6 +4,7 @@
 #include "pch.h"
 #include <iostream>
 #include <time.h>
+#include <omp.h>
 using namespace std;
 
 constexpr auto MAX_THREAD = 4;
@@ -26,6 +27,17 @@ int main() {
 	setlocale(LC_ALL, "Rus");
 	clock_t time = clock();
 	cout << "Таймер запущен.\nЗаполнение массива числами (" << MAX_NUMBERS << ").\n";
+
+	int myid;
+	int i;
+#pragma omp parallel private(myid)
+	{
+		myid = omp_get_thread_num();
+#pragma omp parallel for private(i)
+		for (i = 0; i < 1; i++) {
+			printf("T%d: %d\n", myid, i);
+		}
+	}
 
 #pragma omp parallel for
 	for (int i = 0; i < MAX_NUMBERS; i++) {
