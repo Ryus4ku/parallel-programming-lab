@@ -1,0 +1,10 @@
+﻿  mpi.cpp
+mpi.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Bcast в функции _main
+mpi.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Reduce в функции _main
+mpi.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Comm_size в функции _main
+mpi.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Comm_rank в функции _main
+mpi.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Get_processor_name в функции _main
+mpi.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Wtime в функции _main
+mpi.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Init в функции _main
+mpi.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Finalize в функции _main
+C:\Users\Nikita\IdeaProjects\GitHub\parallel-programming-labs\parallel-programming-lab\mpi\mpi\Debug\mpi.exe : fatal error LNK1120: неразрешенных внешних элементов: 8

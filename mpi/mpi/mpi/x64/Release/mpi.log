@@ -1,0 +1,10 @@
+﻿  mpi.cpp
+mpi.obj : error LNK2001: неразрешенный внешний символ "MPI_Comm_rank"
+mpi.obj : error LNK2001: неразрешенный внешний символ "MPI_Comm_size"
+mpi.obj : error LNK2001: неразрешенный внешний символ "MPI_Bcast"
+mpi.obj : error LNK2001: неразрешенный внешний символ "MPI_Reduce"
+mpi.obj : error LNK2001: неразрешенный внешний символ "MPI_Init"
+mpi.obj : error LNK2001: неразрешенный внешний символ "MPI_Get_processor_name"
+mpi.obj : error LNK2001: неразрешенный внешний символ "MPI_Wtime"
+mpi.obj : error LNK2001: неразрешенный внешний символ "MPI_Finalize"
+C:\Users\Nikita\IdeaProjects\GitHub\parallel-programming-labs\parallel-programming-lab\mpi\mpi\x64\Release\mpi.exe : fatal error LNK1120: неразрешенных внешних элементов: 8
