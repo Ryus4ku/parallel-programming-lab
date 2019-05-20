@@ -1,43 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da055c23-5e90-41d8-be78-28ad53fb9c0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mappedBus.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/mappedbus-0.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/mappedbus-0.5.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/mappedbus-0.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/io/mappedbus/MappedBusConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/io/mappedbus/MappedBusMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/io/mappedbus/MappedBusReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/io/mappedbus/MappedBusWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/io/mappedbus/MemoryMappedFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/io/mappedbus/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/perf/io/mappedbus/perf/MessageReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/perf/io/mappedbus/perf/MessageWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/perf/io/mappedbus/perf/PriceUpdate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/io/mappedbus/sample/bytearray/ByteArrayReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/io/mappedbus/sample/bytearray/ByteArrayWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/io/mappedbus/sample/object/ObjectReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/io/mappedbus/sample/object/ObjectWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/io/mappedbus/sample/object/PriceUpdate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/io/mappedbus/sample/token/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/io/mappedbus/sample/token/Token.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/io/mappedbus/ByteArrayBasedIntegrityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/io/mappedbus/MappedBusReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/io/mappedbus/MappedBusWriterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/io/mappedbus/MemoryMappedFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/io/mappedbus/MemoryTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/io/mappedbus/ObjectBasedIntegrityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/io/mappedbus/RollbackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/io/mappedbus/TokenTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="e2381ff6-5514-4e54-9433-d1abe47df50d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,21 +11,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/io/mappedbus/ByteArrayBasedIntegrityTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/sample/io/mappedbus/sample/object/ObjectWriter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <state relative-caret-position="336">
+              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/io/mappedbus/MemoryTester.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/mappedbus/MappedBusWriter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            <state relative-caret-position="132">
+              <caret line="140" column="26" selection-start-line="140" selection-start-column="26" selection-end-line="140" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,38 +33,150 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/mappedbus/MemoryMappedFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="207" column="33" lean-forward="true" selection-start-line="207" selection-start-column="33" selection-end-line="207" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1375#1376#0" expanded="true" />
+                <element signature="e#1411#1412#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="307" column="4" selection-start-line="307" selection-start-column="4" selection-end-line="307" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/sample/io/mappedbus/sample/object/ObjectReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/mappedbus/MappedBusReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="132" column="50" selection-start-line="132" selection-start-column="50" selection-end-line="132" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>class PriceUpdate</find>
+      <find>MappedBusMessage</find>
+      <find>write(</find>
+    </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/io/mappedbus/MemoryMappedFile.java" />
-        <option value="$PROJECT_DIR$/test/io/mappedbus/MemoryTester.java" />
-        <option value="$PROJECT_DIR$/test/io/mappedbus/ByteArrayBasedIntegrityTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/mappedbus/MappedBusConstants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/mappedbus/MappedBusMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/mappedbus/MappedBusReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/mappedbus/MappedBusWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/mappedbus/MemoryMappedFile.java" />
+        <option value="$PROJECT_DIR$/src/main/sample/io/mappedbus/sample/token/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/sample/io/mappedbus/sample/token/Token.java" />
+        <option value="$PROJECT_DIR$/src/main/sample/io/mappedbus/sample/object/ObjectReader.java" />
+        <option value="$PROJECT_DIR$/src/main/sample/io/mappedbus/sample/object/PriceUpdate.java" />
+        <option value="$PROJECT_DIR$/src/main/sample/io/mappedbus/sample/bytearray/ByteArrayReader.java" />
+        <option value="$PROJECT_DIR$/src/main/sample/io/mappedbus/sample/bytearray/ByteArrayWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/perf/io/mappedbus/perf/MessageWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/perf/io/mappedbus/perf/PriceUpdate.java" />
+        <option value="$PROJECT_DIR$/src/main/perf/io/mappedbus/perf/MessageReader.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/mappedbus/MemoryTester.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/mappedbus/MappedBusReaderTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/mappedbus/ByteArrayBasedIntegrityTest.java" />
+        <option value="$PROJECT_DIR$/src/main/sample/io/mappedbus/sample/object/ObjectWriter.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="683" />
     <option name="height" value="728" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="mappedBus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mappedBus" type="462c0819:PsiDirectoryNode" />
+              <item name="mappedBus2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mappedBus2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mappedBus2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mappedBus2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mappedBus2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mappedBus2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mappedBus2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mappedBus2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mappedBus2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mappedBus2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mappedBus2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mappedBus2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+              <item name="object" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -109,14 +187,19 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557290761542" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558183695624" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GitHub/parallel-programming-labs/parallel-programming-lab/Semaphore" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nikita\IdeaProjects\mappedBus2\src\main" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -130,23 +213,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MemoryTester">
-    <configuration name="ByteArrayReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sample.io.mappedbus.sample.bytearray.ByteArrayReader" />
-      <module name="mappedBus" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sample.io.mappedbus.sample.bytearray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MessageWriter">
     <configuration name="MemoryTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.mappedbus.MemoryTester" />
-      <module name="mappedBus" />
+      <module name="mappedBus2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="io.mappedbus.*" />
@@ -157,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MessageReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="perf.io.mappedbus.perf.MessageReader" />
-      <module name="mappedBus" />
+    <configuration name="MessageWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.mappedbus.perf.MessageWriter" />
+      <module name="mappedBus2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="perf.io.mappedbus.perf.*" />
+          <option name="PATTERN" value="io.mappedbus.perf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,25 +240,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Node" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sample.io.mappedbus.sample.token.Node" />
-      <module name="mappedBus" />
+    <configuration name="ObjectReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.mappedbus.sample.object.ObjectReader" />
+      <module name="mappedBus2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sample.io.mappedbus.sample.token.*" />
+          <option name="PATTERN" value="io.mappedbus.sample.object.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.mappedbus.sample.object.ObjectWriter" />
+      <module name="mappedBus2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.mappedbus.sample.object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MappedBusWriterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mappedBus2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.mappedbus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.mappedbus" />
+      <option name="MAIN_CLASS_NAME" value="io.mappedbus.MappedBusWriterTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectReader" />
+        <item itemvalue="Application.MessageWriter" />
+        <item itemvalue="Application.ObjectWriter" />
         <item itemvalue="Application.MemoryTester" />
-        <item itemvalue="Application.Node" />
-        <item itemvalue="Application.ByteArrayReader" />
-        <item itemvalue="Application.MessageReader" />
+        <item itemvalue="JUnit.MappedBusWriterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -197,35 +296,41 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="da055c23-5e90-41d8-be78-28ad53fb9c0f" name="Default Changelist" comment="" />
-      <created>1557289718182</created>
+      <changelist id="e2381ff6-5514-4e54-9433-d1abe47df50d" name="Default Changelist" comment="" />
+      <created>1557290900325</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557289718182</updated>
-      <workItem from="1557289719729" duration="1166000" />
+      <updated>1557290900325</updated>
+      <workItem from="1557290905075" duration="1582000" />
+      <workItem from="1557299324499" duration="2539000" />
+      <workItem from="1557302213623" duration="438000" />
+      <workItem from="1558171451581" duration="3282000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MappedBusReaderTest - 2019.05.08 at 12h 21m 08s.xml">
+      <configuration name="MappedBusReaderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MappedBusWriterTest - 2019.05.08 at 12h 21m 37s.xml">
+      <configuration name="MappedBusWriterTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1166000" />
+    <option name="totallyTimeSpent" value="7841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32993197" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32993197" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32993197" />
@@ -233,132 +338,225 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Duplicate detector" order="7" weight="0.32993197" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32993197" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32993197" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/io/mappedbus/MappedBusReaderTest.java</url>
+          <line>177</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.xml">
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/reflect/Method.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        <state relative-caret-position="187">
+          <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/perf/io/mappedbus/perf/MessageWriter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/sample/io/mappedbus/sample/token/Token.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/perf/io/mappedbus/perf/MessageReader.java">
+    <entry file="file://$PROJECT_DIR$/src/main/sample/io/mappedbus/sample/bytearray/ByteArrayWriter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/perf/io/mappedbus/perf/PriceUpdate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/io/mappedbus/sample/token/Token.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/io/mappedbus/package-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/io/mappedbus/TokenTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/io/mappedbus/sample/bytearray/ByteArrayReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/io/mappedbus/MappedBusConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/io/mappedbus/MappedBusReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="102" selection-start-line="102" selection-end-line="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/io/mappedbus/sample/token/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/io/mappedbus/MemoryMappedFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="179" column="10" selection-start-line="179" selection-start-column="10" selection-end-line="179" selection-end-column="10" />
-          <folding>
-            <element signature="e#4907#4908#0" expanded="true" />
-            <element signature="e#4959#4960#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/io/mappedbus/MappedBusWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="80" selection-start-line="80" selection-end-line="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/io/mappedbus/MemoryTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        <state relative-caret-position="17">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/io/mappedbus/ByteArrayBasedIntegrityTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/sample/io/mappedbus/sample/bytearray/ByteArrayReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/perf/io/mappedbus/perf/MessageReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/perf/io/mappedbus/perf/PriceUpdate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/mappedbus/ByteArrayBasedIntegrityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/mappedbus/MappedBusMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/mappedbus/MappedBusConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/mappedbus/MappedBusReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/mappedbus/MappedBusWriterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/sample/io/mappedbus/sample/object/PriceUpdate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/mappedbus/MemoryTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/perf/io/mappedbus/perf/MessageWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/sample/io/mappedbus/sample/token/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/mappedbus/MappedBusReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="132" column="50" selection-start-line="132" selection-start-column="50" selection-end-line="132" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/sample/io/mappedbus/sample/object/ObjectReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/mappedbus/MappedBusWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="140" column="26" selection-start-line="140" selection-start-column="26" selection-end-line="140" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/mappedbus/MemoryMappedFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="207" column="33" lean-forward="true" selection-start-line="207" selection-start-column="33" selection-end-line="207" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1375#1376#0" expanded="true" />
+            <element signature="e#1411#1412#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="307" column="4" selection-start-line="307" selection-start-column="4" selection-end-line="307" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/sample/io/mappedbus/sample/object/ObjectWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -415,7 +613,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>mappedBus</last-edited>
+          <last-edited>mappedBus2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -428,6 +626,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
